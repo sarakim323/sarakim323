@@ -8,7 +8,7 @@
 - :octocat:  Learned to code at Hack Reactor (Oct 2022 cohort)
 - 🌱  Currently learning golf and Python
 - :bookmark:  "Live life to the fullest & make a difference along the way"
-- :airplane:  My interests include fashion, traveling, and trying out new things in general!
+- :airplane:  My interests include cooking, fashion, traveling, and trying out new things in general!
 
 ## My Stats
 [![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sarakim323&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
