@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Sara.
+# Hi there! 👋 I'm Sara.
 
 ## About Me
 
