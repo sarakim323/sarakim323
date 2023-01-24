@@ -10,7 +10,7 @@
 - :airplane: I love fashion, traveling, and trying out new things in general!
 
 ## My Stats
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarakim323&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sarakim323&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Technology
 <table>
