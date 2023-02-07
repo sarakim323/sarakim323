@@ -5,7 +5,7 @@
 - :woman:  She/Her
 - :computer:  Full-Stack Software Engineer
 - :mortar_board:  Graduated with BSA in Biochemistry at UT Austin 
-- :octocat:  Learned to code at Hack Reactor (Oct 2022 cohort)
+- :octocat:  Learned to code at Hack Reactor (2022/10 cohort)
 - 🌱  Currently learning golf and Python
 - :bookmark:  "Live life to the fullest & make a difference along the way"
 - :star2:  My interests include cooking, fashion, traveling, and trying out new things in general!
